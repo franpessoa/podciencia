@@ -1,15 +1,16 @@
 <div align="center">
-![Logo](https://0x0.st/o2kr.svg)
+  <img src="https://0x0.st/o2kr.svg"
 </div>
+
 # Podciencia
 
 Um agregador de diversos pocasts de ciência
 
 
 <div align="center">
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Size](https://img.shields.io/github/languages/code-size/franpessoa/podciencia?color=green&label=Tamanho)](https://github.com/franpessoa/podciencia)
-[![Top Languages](https://img.shields.io/github/languages/top/franpessoa/podciencia?color=green&label=Language&logoColor=red)](https://github.com/franpessoa/podciencia)
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+![Size](https://img.shields.io/github/languages/code-size/franpessoa/podciencia?color=green&label=Tamanho)
+![Top Languages](https://img.shields.io/github/languages/top/franpessoa/podciencia?color=green&label=Language&logoColor=red)
 </div>
 ## Stack utilizada
 
