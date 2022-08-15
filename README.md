@@ -8,9 +8,9 @@ Um agregador de diversos pocasts de ciência
 
 
 <div align="center">
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
-![Size](https://img.shields.io/github/languages/code-size/franpessoa/podciencia?color=green&label=Tamanho)
-![Top Languages](https://img.shields.io/github/languages/top/franpessoa/podciencia?color=green&label=Language&logoColor=red)
+<img src="https://img.shields.io/badge/License-MIT-green.svg)">
+<img src="https://img.shields.io/github/languages/code-size/franpessoa/podciencia?color=green&label=Tamanho)">
+<img src="https://img.shields.io/github/languages/top/franpessoa/podciencia?color=green&label=Language&logoColor=red)">
 </div>
 ## Stack utilizada
 
