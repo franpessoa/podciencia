@@ -8,10 +8,10 @@ Um agregador de diversos pocasts de ciência
 
 
 <div align="center">
-<img src="https://img.shields.io/badge/License-MIT-green.svg)">
 <img src="https://img.shields.io/github/languages/code-size/franpessoa/podciencia?color=green&label=Tamanho)">
 <img src="https://img.shields.io/github/languages/top/franpessoa/podciencia?color=green&label=Language&logoColor=red)">
 </div>
+
 ## Stack utilizada
 
 **Front-end:**  Svelte + SASS
