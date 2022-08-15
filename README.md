@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://0x0.st/o2kr.svg"
-</div>
+<p align="center">
+  <img src="https://0x0.st/o2kr.svg">
+</p>
 
 # Podciencia
 
@@ -49,9 +49,3 @@ Inicie o servidor
 ## Apêndice
 
 Criado para a aula de inglês do [Paulo Mielmiczuck](https://www.youtube.com/user/mielmiczuk10)
-
-
-## Licença
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
